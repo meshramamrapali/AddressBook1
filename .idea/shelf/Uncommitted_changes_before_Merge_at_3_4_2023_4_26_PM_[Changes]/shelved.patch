@@ -1,0 +1,18 @@
+Index: src/AddressBook1.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>public class AddressBook1 {\r\n    public static void main(String[] args) {\r\n        System.out.println(\"Welcome To Address Book\");\r\n    }\r\n}
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/AddressBook1.java b/src/AddressBook1.java
+--- a/src/AddressBook1.java	
++++ b/src/AddressBook1.java	
+@@ -1,5 +1,6 @@
+ public class AddressBook1 {
+     public static void main(String[] args) {
++
+         System.out.println("Welcome To Address Book");
+     }
+ }
+\ No newline at end of file
