@@ -25,7 +25,6 @@ public class AddressBook1 {
             contact.email = scanner.next();
             contactsArray[i] = contact;
             contactsArray[i] = contact;
-
         }
     }
 
